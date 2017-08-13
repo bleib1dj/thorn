@@ -327,7 +327,7 @@ So let's discuss the decorator arguments one by one:
     which is described in detail in the :ref:`events-model-filtering`
     section.
 
-#. ``def webhook_payload``
+#. ``def payload``
 
     This method defines what to include in the ``data`` section of the
     webhooks sent for this model.
